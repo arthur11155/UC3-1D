@@ -3,10 +3,47 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-Escreva aqui os conteúdos aprendidos.
-- STRING
-- CONCEITO DE STRING
-- EXEMPLOS
+JS
+var x = 10;
+var y = 8;
+var z = x + y;
+
+LET
+JS
+let x = 6
+let y = 7;
+let z = x + y;
+
+CONST
+JS
+const x = 10;
+const y = 6;
+const z = x + y;
+
+STRING
+JS
+const single = 'Single quotes'
+const double = "Double quotes";
+const backtick = `Backtick`;
+
+
+console.log(single);
+console.log(double);
+console.log(backtick);
+
+
+
+
+
 
 ## Atividades desenvolvidas
-Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
+atividades do code pen
+
+
+ARRAY
+```JS
+[https://codepen.io/pedrinho-bespo/pen/PorjdEa](https://codepen.io/arthur11155/pen/wvLPyox)
+
+```JS
+[https://codepen.io/pedrinho-bespo/pen/vYqdVKL](https://codepen.io/arthur11155/pen/zYVpMeP)
+
